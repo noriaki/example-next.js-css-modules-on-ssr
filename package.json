@@ -1,0 +1,19 @@
+{
+  "name": "example-next.js-css-modules-on-ssr",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:noriaki/example-next.js-css-modules-on-ssr.git",
+  "author": "Noriaki Uchiyama <uchiyama.noriaki@gmail.com>",
+  "license": "Apache License 2.0",
+  "private": true,
+  "dependencies": {
+    "next": "^9.2.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^13.5.1",
+    "@types/react": "^16.9.19",
+    "typescript": "^3.7.5"
+  }
+}
